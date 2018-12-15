@@ -1,0 +1,7 @@
+.vs/
+Debug/
+Release/
+x86/
+x64/
+imgui.ini
+*.user
